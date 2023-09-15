@@ -4,7 +4,7 @@
 
 #                                                                    🙋‍♂️
 
-- 👀 _I’m interested in Data Science, Data Analytics Domain..._
+- 👀 _I’m interested in Data Engineer, Data Science, Data Analytics Domain..._
 - 🌱 _I’m currently exploring BIG DATA .._
 - ⚡ _I have extensive knowledge and hands on implementation experience about the algorithm of machine learing, deep learing, computer vision and         Natural Language Processing_
 - 💞️ _I am inquistive about the DATA..._
